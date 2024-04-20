@@ -1,1 +1,1 @@
-# FPGA-Tabanl-G-r-nt-leme-ile-Ger-ek-Zamanl-Hareket-Alg-lama-ve-Nesne-Takibi
+FPGA Tabanlı Görüntü İşleme ile Gerçek Zamanlı Hareket Algılama ve Nesne Takibi

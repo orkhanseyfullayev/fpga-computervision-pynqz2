@@ -127,3 +127,16 @@ Proje hedeflerinde uygun sonuçlar elde etmek adına, "Lokal Ortamda Prototip Ge
     - **`cv2.imshow`** ile ilk frame, mevcut frame ve fark görüntüsü ekranda gösterilir. Bu, kullanıcının neyin algılandığını ve nasıl algılandığını görmesini sağlar.
 8. **Programın Sonlandırılması:**
     - Her döngü iterasyonunda, **`cv2.waitKey`** ile 30 milisaniye boyunca bir klavye girdisi beklenir. Eğer **`Esc`** tuşuna basılırsa (ASCII değeri 27), döngü kırılır ve video akışı ile tüm pencereler kapatılır.
+
+## Kaynakça
+
+- [Xilinix / Embedded System Design Flow](https://github.com/Xilinx/xup_embedded_system_design_flow/tree/main/slides)
+- [FPGA Insights](https://fpgainsights.com/fpga/fpga-based-image-processing-harnessing-the-power-of-field-programmable-gate-arrays/)
+- [The Data Bus](https://thedatabus.io/introduction)
+- [Run.ai](http://Run.aihttps://www.run.ai/guides/gpu-deep-learning/fpga-for-deep-learning)
+- [PYNQ Introduction](https://pynq.readthedocs.io/en/latest/index.html)
+- [Xilinix / PYNQ](https://github.com/Xilinx/PYNQ)
+- [MDPI](https://www.mdpi.com/2313-433X/5/1/16)
+- [MathWorks](https://www.mathworks.com/discovery/fpga-image-processing.html)
+- [OpenCV](https://docs.opencv.org/4.x/d1/dfb/intro.html)
+- [Python.Org](http://Python.Orghttps://docs.opencv.org/4.x/d1/dfb/intro.html)

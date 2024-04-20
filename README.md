@@ -127,6 +127,3 @@ Proje hedeflerinde uygun sonuçlar elde etmek adına, "Lokal Ortamda Prototip Ge
     - **`cv2.imshow`** ile ilk frame, mevcut frame ve fark görüntüsü ekranda gösterilir. Bu, kullanıcının neyin algılandığını ve nasıl algılandığını görmesini sağlar.
 8. **Programın Sonlandırılması:**
     - Her döngü iterasyonunda, **`cv2.waitKey`** ile 30 milisaniye boyunca bir klavye girdisi beklenir. Eğer **`Esc`** tuşuna basılırsa (ASCII değeri 27), döngü kırılır ve video akışı ile tüm pencereler kapatılır.
-## Kaynakça
-
-- [Xilinix / Embedded System Design Flow](https://github.com/Xilinx/xup_embedded_system_design_flow/tree/main/slides)

@@ -1,5 +1,4 @@
-FPGA Tabanlı Görüntü İşleme ile Gerçek Zamanlı Hareket Algılama ve Nesne Takibi
-# Proje Öncesi Genel Araştırma
+# FPGA Tabanlı Görüntü İşleme ile Gerçek Zamanlı Hareket Algılama ve Nesne Takibi
 
 ## **FPGA | Gömülü Sistemler | Görüntü İşleme**
 

@@ -8,6 +8,12 @@ FPGA-based systems excel in real-time applications, such as **medical imaging, v
 
 Common image processing techniques implemented on FPGAs include **image filtering, edge detection, histogram operations, and morphological transformations**. These methods are essential for **noise reduction, image sharpening, contrast enhancement**, and other preprocessing steps that improve the accuracy and reliability of image-based analysis.
 
+### System Overview
+The following diagram illustrates the overall architecture of the FPGA-based motion detection and tracking system.
+
+![System Overview](images/system_overview.jpg)
+
+
 For instance, **median filtering, Gaussian filtering, and wavelet-based noise reduction techniques** can be executed at high speed on FPGA-based systems due to their inherent parallel processing capabilities. This is particularly crucial for **enhancing image quality in low-light conditions or high-noise environments**, where traditional software-based approaches may struggle to deliver real-time performance.
 
 The **FPGA architecture** consists of **Lookup Tables (LUTs), flip-flops, block RAM, and DSP slices**, all of which contribute to its ability to execute image processing algorithms in parallel. This architectural advantage allows FPGAs to **significantly enhance computational throughput**, making them more efficient than CPUs or GPUs, especially in applications involving **large datasets or computationally intensive operations**.

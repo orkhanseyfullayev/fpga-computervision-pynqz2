@@ -6,13 +6,12 @@ Field-Programmable Gate Arrays (FPGAs) are widely utilized in image processing a
 
 FPGA-based systems excel in real-time applications, such as **medical imaging, video surveillance, and automotive vision systems**, where maximizing computational efficiency and minimizing latency are critical. By enabling algorithm-level parallelism, FPGAs can process multiple operations simultaneously, making them particularly well-suited for **video processing and complex image analysis**.
 
-Common image processing techniques implemented on FPGAs include **image filtering, edge detection, histogram operations, and morphological transformations**. These methods are essential for **noise reduction, image sharpening, contrast enhancement**, and other preprocessing steps that improve the accuracy and reliability of image-based analysis.
-
 ### System Overview
 The following diagram illustrates the overall architecture of the FPGA-based motion detection and tracking system.
 
 ![System Overview](images/system_overview.jpg)
 
+Common image processing techniques implemented on FPGAs include **image filtering, edge detection, histogram operations, and morphological transformations**. These methods are essential for **noise reduction, image sharpening, contrast enhancement**, and other preprocessing steps that improve the accuracy and reliability of image-based analysis.
 
 For instance, **median filtering, Gaussian filtering, and wavelet-based noise reduction techniques** can be executed at high speed on FPGA-based systems due to their inherent parallel processing capabilities. This is particularly crucial for **enhancing image quality in low-light conditions or high-noise environments**, where traditional software-based approaches may struggle to deliver real-time performance.
 

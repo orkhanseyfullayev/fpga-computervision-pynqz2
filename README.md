@@ -118,6 +118,11 @@ Implementing image processing algorithms on FPGA-based systems requires an optim
 
 The objective of this project is to develop a **real-time motion detection and tracking system** using camera-acquired images. The system will detect movement within a scene and visually mark detected objects, making it applicable to **security systems, surveillance applications, and interactive systems**.
 
+### Motion Detection Process  
+The following diagram illustrates the motion detection pipeline used in the system:  
+
+![Motion Detection Process](images/motion_detection_process.png)
+
 The project development follows a structured approach, consisting of the following key stages:
 
 ### **Development Phase 1: Motion Detection System Workflow**

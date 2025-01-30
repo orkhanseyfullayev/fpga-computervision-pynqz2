@@ -121,7 +121,7 @@ The objective of this project is to develop a **real-time motion detection and t
 ### Motion Detection Process  
 The following diagram illustrates the motion detection pipeline used in the system:  
 
-![Motion Detection Process](images/motion_detection_process.png)
+![Motion Detection Process](images/motion_detection_process.jpg)
 
 The project development follows a structured approach, consisting of the following key stages:
 
